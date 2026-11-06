@@ -24,7 +24,9 @@
 
 **E. Additional Information**
   [50 First Dates]([https://www.example.com](https://www.imdb.com/title/tt0343660/))
-  
+
+| Movie Detail | Information |
+| ------------- | ------------- |
 | Release Year | 2004 |
 | Director | Peter Segal |
 | Main Cast | Adam Sandler, Drew Barrymore, Rob Schneider, Sean Astin, Blake Clark |
