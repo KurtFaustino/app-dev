@@ -22,7 +22,7 @@
     - Comedy and Unique
     - Great Chemistry
     **RATING:9/10**
-    Recommendation: Romantic comedies with heart,hreat humor, and strong leading chemistry.
+   > Recommendation: Romantic comedies with heart,hreat humor, and strong leading chemistry.
 
 **E. Additional Information**
 
